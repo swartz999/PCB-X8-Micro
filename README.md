@@ -1,2 +1,2 @@
 # PCB-X8-Micro
-The board containing the microcontroller
+The board containing the microcontroller and surface communication 
